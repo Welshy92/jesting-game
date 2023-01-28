@@ -1,0 +1,22 @@
+{
+  "name": "jesting-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Welshy92/jesting-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Welshy92/jesting-game/issues"
+  },
+  "homepage": "https://github.com/Welshy92/jesting-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
